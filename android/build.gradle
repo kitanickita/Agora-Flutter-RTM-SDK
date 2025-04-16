@@ -43,6 +43,7 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+    namespace 'io.agora.agorartm.agora_rtm'
 }
 
 dependencies {
